@@ -11,3 +11,8 @@ button {
   height: 150px;
   width: 100%;
 }
+
+.game-card {
+  display: flex;
+  align-items: center;
+}
