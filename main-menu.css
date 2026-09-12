@@ -20,6 +20,8 @@ body {
   align-items: center;
 
   box-sizing: border-box;
+
+  box-shadow: 25px 25px 15px rgba(0, 0, 0, 0.45);
 }
 
 .book-cover h1 {
